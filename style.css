@@ -1,0 +1,59 @@
+.logo{
+    width: 1280px;
+    height: 90;
+    text-align: center;
+    margin-left:auto;
+    margin-right:auto;
+}
+.search {
+    background: #eeeeee;
+    width: 1280px;
+    height: 80;
+    text-align: center;
+    margin-left:auto;
+    margin-right:auto;
+}
+    .searchbox{
+        text-align: center;
+        margin:auto;
+        max-width:300px"
+    }
+.asd{
+    width: 1280px;
+    height: 80px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2px;   
+}
+    .bg1{
+
+        font-size: 125%;
+        height: 80px;
+        width: 36%;
+        float: left;
+        background:#7ee5da;
+        margin-right: 2px;
+    }
+    .bg2{
+        font-size: 90%;
+        height: 80px;
+        width: 20%;
+        float: left;
+        background: #70ccc2;
+        margin-right: 2px;
+    }
+    .bg3{
+        font-size: 90%;
+        height: 80px;
+        width: 43.65%;
+        float: left;
+        background: #62b3aa;
+    }
+.copy{
+    text-align: center;
+    font-size: 80%;
+    margin-top: 15px;
+    margin-left: -10px;
+}
+    
